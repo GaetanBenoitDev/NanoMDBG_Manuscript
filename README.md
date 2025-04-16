@@ -10,8 +10,8 @@ A collection of scripts and workflows to assess HiFi metagenomics assembly quali
 - wfmash
 - pyani
 
-# Assess circular contigs
-Assess contig quality in an assembly, and their quality with checkM.
+# Assess contig quality
+Assess contig quality in an assembly, and their quality with checkM2.
 ```
 MetaMDBG:
 python3 ./run_singleContigs3.py outputDir contigs.fasta.gz contigs.fasta.gz metaMDBG nbCores
