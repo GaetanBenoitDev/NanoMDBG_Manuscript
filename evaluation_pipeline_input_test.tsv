@@ -1,0 +1,3 @@
+DatasetName	SequencingTechnology	DatasetSize	ReadFilename
+ZymoFecalReference	Nanopore	test	~/appa/data/nanopore/humanGut/small.fastq.gz
+ZymoFecalReference	Hifi	test	~/appa/data/paper/hifi/humanGut/small.fastq.gz

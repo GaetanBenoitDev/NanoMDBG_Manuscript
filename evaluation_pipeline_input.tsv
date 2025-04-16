@@ -1,0 +1,5 @@
+DatasetName	SequencingTechnology	DatasetSize	ReadFilename
+ZymoFecalReference	Nanopore	50G	~/appa/data/nanopore/zymo_fecal_reference/zymoFecalReference_subsample/zymoFecalReference_50G.fastq.gz
+ZymoFecalReference	Nanopore	100G	~/appa/data/nanopore/zymo_fecal_reference/zymoFecalReference_subsample/zymoFecalReference_100G.fastq.gz
+ZymoFecalReference	Nanopore	150G	~/appa/data/nanopore/zymo_fecal_reference/zymoFecalReference_subsample/zymoFecalReference_150G.fastq.gz
+ZymoFecalReference	Nanopore	200G	~/appa/data/nanopore/zymo_fecal_reference/zymoFecalReference_subsample/zymoFecalReference_200G.fastq.gz
