@@ -37,10 +37,12 @@ python3 ./computeMAG_binning3.py outputDir contigs.fasta.gz map-ont nbCores read
 ```
 
 After successful execution, the file "outputDir/checkm/\_\_checkm/binScore.csv" contains the results with the following format:
+```
 Near-complete: 5
 High-quality: 20
 Medium-quality: 47
 Contaminated: 72
+```
 
 # Assess assembly completeness and fragmentation with reference sequences
 Map contigs to references and compute the number of contigs required to cover at least 99% of the references.
